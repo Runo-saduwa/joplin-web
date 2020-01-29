@@ -6,7 +6,7 @@ A Web application companion for [JoplinApp](https://joplinapp.org)
 
 ## why that project ?
 
-Because it may happened we need to access to [JoplinApp](https://joplinapp.org) without having access to our smartphone or the Joplin Desktop, and a Web Application could to the trick at a given moment.
+This Project was initiated because it may happen that Joplin users will need access to [JoplinApp](https://joplinapp.org) without the need of using the Joplin Desktop application or mobile application because of some barriers. Its possible that the user might need access to Joplin but doesn't have a laptop or a modern mobile device that could install Joplin mobile app or maybe the user doesn't just needs another option to access Joplin quickly. By taking advantage of the low barrier to gaining access to the web (literally almost everyone has a browser), Joplin Web application is born. 
 
 ## Requirements
 
